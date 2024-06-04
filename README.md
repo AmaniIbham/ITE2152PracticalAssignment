@@ -8,12 +8,12 @@
 This app was developed as part of the practical take-home assignment for the ITE2152 - Mobile Application Development module.
 
 ## Project Description:
-The Weather App is designed to provide users with up-to-date weather information based on their current location. It utilizes the OpenWeather API to fetch weather data, including temperature, visibility, wind speed, and humidity, corresponding to the user's longitude and latitude coordinates. Additionally, the app offers a weather forecast for the next three days.
+The Weather App is designed to provide users with up-to-date weather information based on their current location. It utilizes the OpenWeather API to fetch weather data, including temperature, visibility, wind speed, and humidity, corresponding to the user's longitude and latitude coordinates. Additionally, the app offers an upcoming weather forecast.
 
 ## Features:
 - Fetches current weather data using OpenWeather API
 - Displays temperature, rainfall, wind speed, and humidity information
-- Provides a weather forecast for the next three days
+- Provides a weather an upcoming forecast.
 - Utilizes location services to determine the user's current location
 - Developed using Android Studio Jelly 2023.3.1
 
