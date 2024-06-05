@@ -12,7 +12,7 @@ The Weather App is designed to provide users with up-to-date weather information
 
 ## Features:
 - Fetches current weather data using OpenWeather API
-- Displays temperature, rainfall, wind speed, and humidity information
+- Displays temperature, visibility, wind speed, and humidity information
 - Provides a weather an upcoming forecast.
 - Utilizes location services to determine the user's current location
 - Developed using Android Studio Jelly 2023.3.1
